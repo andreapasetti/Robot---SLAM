@@ -271,7 +271,11 @@ if __name__ == '__main__':
         if not args.local:
             # environment at generation time
 <<<<<<< HEAD
+<<<<<<< HEAD
             CMAKE_PREFIX_PATH = '/home/workspace/catkin_ws/devel;/opt/ros/kinetic'.split(';')
+=======
+            CMAKE_PREFIX_PATH = '/opt/ros/kinetic'.split(';')
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
             CMAKE_PREFIX_PATH = '/opt/ros/kinetic'.split(';')
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241

@@ -2504,7 +2504,10 @@
       <pose frame=''>-0.979795 -2.55315 0 0 -0 0</pose>
     </model>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
     <model name='suv'>
       <static>1</static>
       <link name='link'>
@@ -2544,6 +2547,9 @@
       </link>
       <pose frame=''>7.73455 -10.5204 0 0 -0 0</pose>
     </model>
+<<<<<<< HEAD
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
+=======
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
     <model name='table'>
       <static>1</static>
@@ -3385,6 +3391,7 @@
     </model>
     <state world_name='default'>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <sim_time>1862 634000000</sim_time>
       <real_time>258 106672589</real_time>
       <wall_time>1618167084 869306440</wall_time>
@@ -3398,6 +3405,8 @@
           <acceleration>0.006171 -0.001075 19.5855 0.002015 0.054449 0.014799</acceleration>
           <wrench>0.002407 -0.000419 7.63835 0 -0 0</wrench>
 =======
+=======
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
       <sim_time>640 933000000</sim_time>
       <real_time>51 925544938</real_time>
       <wall_time>1608973781 12846608</wall_time>
@@ -3410,6 +3419,9 @@
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0.005072 -0.000732 19.5881 -0.004017 0.045517 0.020974</acceleration>
           <wrench>0.001978 -0.000285 7.63937 0 -0 0</wrench>
+<<<<<<< HEAD
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
+=======
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
         </link>
       </model>
@@ -3423,6 +3435,7 @@
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <model name='bookshelf_0'>
         <pose frame=''>-4.12562 6.76912 0 0 -0 0</pose>
@@ -3440,11 +3453,16 @@
         <link name='Wall_0'>
           <pose frame=''>-1.98619 -0.647692 0 0 -0 0</pose>
 =======
+=======
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
       <model name='building'>
         <pose frame=''>1.11947 -1.97796 0 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='Wall_0'>
           <pose frame=''>-2.065 -0.61 0 0 -0 0</pose>
+<<<<<<< HEAD
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
+=======
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
@@ -3452,7 +3470,11 @@
         </link>
         <link name='Wall_1'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>-0.561186 -2.07269 0 0 0 -1.5708</pose>
+=======
+          <pose frame=''>-0.64 -2.035 0 0 0 -1.5708</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>-0.64 -2.035 0 0 0 -1.5708</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3462,7 +3484,11 @@
         </link>
         <link name='Wall_2'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>-1.98619 -3.49769 0 0 -0 3.14159</pose>
+=======
+          <pose frame=''>-2.065 -3.46 0 0 -0 3.14159</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>-2.065 -3.46 0 0 -0 3.14159</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3472,7 +3498,11 @@
         </link>
         <link name='Wall_3'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>-3.41119 -2.07269 0 0 -0 1.5708</pose>
+=======
+          <pose frame=''>-3.49 -2.035 0 0 -0 1.5708</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>-3.49 -2.035 0 0 -0 1.5708</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3482,7 +3512,11 @@
         </link>
         <link name='Wall_34'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>-0.561186 -9.17269 0 0 0 -1.5708</pose>
+=======
+          <pose frame=''>-0.64 -9.135 0 0 0 -1.5708</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>-0.64 -9.135 0 0 0 -1.5708</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3492,7 +3526,11 @@
         </link>
         <link name='Wall_35'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>2.86381 -10.8477 0 0 -0 0</pose>
+=======
+          <pose frame=''>2.785 -10.81 0 0 -0 0</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>2.785 -10.81 0 0 -0 0</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3502,7 +3540,11 @@
         </link>
         <link name='Wall_36'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>6.28881 -12.7727 0 0 0 -1.5708</pose>
+=======
+          <pose frame=''>6.21 -12.735 0 0 0 -1.5708</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>6.21 -12.735 0 0 0 -1.5708</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3512,7 +3554,11 @@
         </link>
         <link name='Wall_37'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>7.96381 -14.6977 0 0 -0 0</pose>
+=======
+          <pose frame=''>7.885 -14.66 0 0 -0 0</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>7.885 -14.66 0 0 -0 0</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3522,7 +3568,11 @@
         </link>
         <link name='Wall_40'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>9.78881 -11.0727 0 0 0 -1.5708</pose>
+=======
+          <pose frame=''>9.71 -11.035 0 0 0 -1.5708</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>9.71 -11.035 0 0 0 -1.5708</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3532,7 +3582,11 @@
         </link>
         <link name='Wall_42'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>-3.98619 -7.49769 0 0 -0 3.14159</pose>
+=======
+          <pose frame=''>-4.065 -7.46 0 0 -0 3.14159</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>-4.065 -7.46 0 0 -0 3.14159</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3542,7 +3596,11 @@
         </link>
         <link name='Wall_43'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>-7.41119 -0.322692 0 0 -0 1.5708</pose>
+=======
+          <pose frame=''>-7.49 -0.285 0 0 -0 1.5708</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>-7.49 -0.285 0 0 -0 1.5708</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3552,7 +3610,11 @@
         </link>
         <link name='Wall_44'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>1.21381 6.85231 0 0 -0 0</pose>
+=======
+          <pose frame=''>1.135 6.89 0 0 -0 0</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>1.135 6.89 0 0 -0 0</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3562,7 +3624,11 @@
         </link>
         <link name='Wall_46'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>9.78881 3.02731 0 0 -0 1.5708</pose>
+=======
+          <pose frame=''>9.71 3.065 0 0 -0 1.5708</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>9.71 3.065 0 0 -0 1.5708</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3572,7 +3638,11 @@
         </link>
         <link name='Wall_49'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>-5.37932 3.05061 0 0 -0 0</pose>
+=======
+          <pose frame=''>-5.45813 3.0883 0 0 -0 0</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>-5.45813 3.0883 0 0 -0 0</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3582,7 +3652,11 @@
         </link>
         <link name='Wall_5'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>4.61381 -0.647692 0 0 -0 0</pose>
+=======
+          <pose frame=''>4.535 -0.61 0 0 -0 0</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>4.535 -0.61 0 0 -0 0</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3592,7 +3666,11 @@
         </link>
         <link name='Wall_50'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>-3.45432 6.85061 0 0 -0 1.5708</pose>
+=======
+          <pose frame=''>-3.53313 6.8883 0 0 -0 1.5708</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>-3.53313 6.8883 0 0 -0 1.5708</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3602,7 +3680,11 @@
         </link>
         <link name='Wall_54'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>-0.029316 10.6506 0 0 -0 0</pose>
+=======
+          <pose frame=''>-0.10813 10.6883 0 0 -0 0</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>-0.10813 10.6883 0 0 -0 0</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3612,7 +3694,11 @@
         </link>
         <link name='Wall_55'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>3.39568 8.82565 0 0 0 -1.5708</pose>
+=======
+          <pose frame=''>3.31687 8.86334 0 0 0 -1.5708</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>3.31687 8.86334 0 0 0 -1.5708</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3622,7 +3708,11 @@
         </link>
         <link name='Wall_57'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>-5.51968 8.74385 0 0 -0 0.785398</pose>
+=======
+          <pose frame=''>-5.59849 8.78154 0 0 -0 0.785398</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>-5.59849 8.78154 0 0 -0 0.785398</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3632,7 +3722,11 @@
         </link>
         <link name='Wall_6'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>9.78881 -4.07269 0 0 0 -1.5708</pose>
+=======
+          <pose frame=''>9.71 -4.035 0 0 0 -1.5708</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>9.71 -4.035 0 0 0 -1.5708</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3642,7 +3736,11 @@
         </link>
         <link name='Wall_7'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>4.61381 -7.49769 0 0 -0 3.14159</pose>
+=======
+          <pose frame=''>4.535 -7.46 0 0 -0 3.14159</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>4.535 -7.46 0 0 -0 3.14159</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3652,7 +3750,11 @@
         </link>
         <link name='Wall_8'>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <pose frame=''>-0.561186 -5.49769 0 0 -0 1.5708</pose>
+=======
+          <pose frame=''>-0.64 -5.46 0 0 -0 1.5708</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
           <pose frame=''>-0.64 -5.46 0 0 -0 1.5708</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -3671,6 +3773,7 @@
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <model name='cabinet_0'>
         <pose frame=''>3.42114 -0.173408 0 0 0 -1.51972</pose>
@@ -3702,6 +3805,8 @@
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
+=======
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
       <model name='cabinet_clone'>
@@ -3775,6 +3880,7 @@
         </link>
       </model>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <model name='car_wheel'>
         <pose frame=''>-0.471799 8.67247 -0.004993 -0.008316 9.6e-05 0.009729</pose>
         <scale>1 1 1</scale>
@@ -3847,6 +3953,8 @@
       </model>
 =======
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
+=======
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
       <model name='ground_plane'>
         <pose frame=''>0 0 0 0 -0 0</pose>
         <scale>1 1 1</scale>
@@ -3857,6 +3965,7 @@
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <model name='hammer'>
         <pose frame=''>-5.23134 4.82839 0 0 -0 0</pose>
@@ -3940,6 +4049,8 @@
       </model>
 =======
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
+=======
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
       <model name='my_ball'>
         <pose frame=''>3.08934 -9.6774 0.1 0 -0 0</pose>
         <scale>1 1 1</scale>
@@ -3950,6 +4061,7 @@
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <model name='my_robot'>
         <pose frame=''>1.60481 3.16281 0.124999 1e-05 8e-06 -0.122199</pose>
@@ -3989,17 +4101,23 @@
         <link name='body'>
           <pose frame=''>-3.93866 7.81787 0.050012 5e-06 0.000154 -0</pose>
 =======
+=======
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
       <model name='suv'>
         <pose frame=''>7.91957 -11.3462 0 0 0 -1.57788</pose>
         <scale>1 1 1</scale>
         <link name='link'>
           <pose frame=''>7.91957 -11.3462 0 0 0 -1.57788</pose>
+<<<<<<< HEAD
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
+=======
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <model name='person_standing'>
         <pose frame=''>6.09937 4.83338 -1e-06 -1e-06 1e-06 -0.000535</pose>
@@ -4181,6 +4299,8 @@
       </model>
 =======
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
+=======
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
       <model name='table'>
         <pose frame=''>6.59157 4.00806 0 0 -0 0</pose>
         <scale>1 1 1</scale>
@@ -4218,7 +4338,11 @@
     <gui fullscreen='0'>
       <camera name='user_camera'>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <pose frame=''>-9.27175 1.64458 23.708 -0 1.0938 -0.05364</pose>
+=======
+        <pose frame=''>-15.88 1.03942 20.7388 0 0.734664 -0.065641</pose>
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
         <pose frame=''>-15.88 1.03942 20.7388 0 0.734664 -0.065641</pose>
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
@@ -4328,6 +4452,7 @@
       <allow_auto_disable>1</allow_auto_disable>
       <pose frame=''>3.08934 -9.6774 0 0 -0 0</pose>
     </model>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <model name='my_robot'>
       <link name='robot_footprint'>
@@ -9608,6 +9733,8 @@
       </link>
       <pose frame=''>8.22555 -12.5663 0 0 -0 0</pose>
     </model>
+=======
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
   </world>

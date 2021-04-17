@@ -155,7 +155,11 @@ foreach(library ${libraries})
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
 <<<<<<< HEAD
+<<<<<<< HEAD
     foreach(path /home/workspace/catkin_ws/install/lib;/home/workspace/catkin_ws/devel/lib;/opt/ros/kinetic/lib)
+=======
+    foreach(path /home/workspace/catkin_ws/install/lib;/opt/ros/kinetic/lib)
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
     foreach(path /home/workspace/catkin_ws/install/lib;/opt/ros/kinetic/lib)
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241

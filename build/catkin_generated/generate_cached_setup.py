@@ -13,7 +13,11 @@ try:
 except ImportError:
     # search for catkin package in all workspaces and prepend to path
 <<<<<<< HEAD
+<<<<<<< HEAD
     for workspace in "/home/workspace/catkin_ws/devel;/opt/ros/kinetic".split(';'):
+=======
+    for workspace in "/opt/ros/kinetic".split(';'):
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 =======
     for workspace in "/opt/ros/kinetic".split(';'):
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241

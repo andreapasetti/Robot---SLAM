@@ -8,12 +8,19 @@
 
 # modified environment variables
 <<<<<<< HEAD
+<<<<<<< HEAD
 export PWD="/home/workspace/catkin_ws/build"
 =======
+=======
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
 export CMAKE_PREFIX_PATH="/home/workspace/catkin_ws/devel:$CMAKE_PREFIX_PATH"
 export LD_LIBRARY_PATH="/home/workspace/catkin_ws/devel/lib:$LD_LIBRARY_PATH"
 export PKG_CONFIG_PATH="/home/workspace/catkin_ws/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/home/workspace/catkin_ws/build"
 export ROSLISP_PACKAGE_DIRECTORIES="/home/workspace/catkin_ws/devel/share/common-lisp"
+<<<<<<< HEAD
+export ROS_PACKAGE_PATH="/home/workspace/catkin_ws/src:$ROS_PACKAGE_PATH"
+>>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
+=======
 export ROS_PACKAGE_PATH="/home/workspace/catkin_ws/src:$ROS_PACKAGE_PATH"
 >>>>>>> 1ae73f7a4d41ad232e2ba54245c6e7a451386241
