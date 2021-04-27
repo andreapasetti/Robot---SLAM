@@ -5,7 +5,7 @@ Going around, the algorithm builds the map based on the loop closures. The robot
 
 ## Execution
 - Init your catkin_ws
-- Go to the catckin workspace and paste the "src" cloned from this repository.
+- Go to the catckin workspace and clone this repository.
 - `catkin_make`
 
 ## Open terminal 1
